@@ -9,4 +9,4 @@ I've also performed data visualization using countplot graphs.
 On evaluating the model, I've obtained the following accuracies:
 
 Accuracy on TRAINING DATA- 79.86 %
- Accuracy on TESTING DATA-  83.33 %
+Accuracy on TESTING DATA-  83.33 %
